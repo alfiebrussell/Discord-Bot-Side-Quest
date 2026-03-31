@@ -1,2 +1,4 @@
 # Discord-Bot-Side-Quest
-Discord bot token not uploaded and on a seperate file, only code.
+<mark>Discord bot token not uploaded and on a seperate file, only code.<bk/>
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
